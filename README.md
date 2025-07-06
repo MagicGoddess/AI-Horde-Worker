@@ -2,6 +2,8 @@ This repository allows you to set up a AI Horde Worker to run a scribe or alchem
 
 # AI Horde Worker
 
+> ⚠️ **Need help setting things up?** Some modes (like Alchemist) may be broken or require specific configurations. We recommend joining the [AI Horde Discord](https://discord.gg/kwst4K7wbv) for assistance and updates.
+
 ## ⚠️ Notice for Image Generation
 
 > As of January 2024, the official worker for image generation is now [horde-worker-reGen](https://github.com/Haidra-Org/horde-worker-reGen).
@@ -96,6 +98,8 @@ You can use this UI and update your bridge settings even while your worker is ru
 You can also edit this file using a text editor. We also provide a `bridgeData_template.yaml` with comments on each option which you can copy into a new `bridgeData.yaml` file. This info should soon be onboarded onto the webui as well.
 
 ## Startup
+
+> ⚠️ **Note:** Some worker modes, such as Alchemist, may currently be unstable or broken due to unresolved dependency issues. If you're having trouble getting anything working, please don't hesitate to ask for help in the [AI Horde Discord](https://discord.gg/kwst4K7wbv). Community support is active and friendly!
 
 Start your worker, depending on which type you want to run.
 
